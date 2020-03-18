@@ -1,0 +1,125 @@
+{
+	"challenges": [{
+		"id": 1,
+		"image": "https://picsum.photos/415/157",
+		"event_name": "Opening Event 1",
+		"time_register_start": "13/03/2020 08:00",
+		"time_register_end": "21/03/2020 17:00",
+		"time_start": "13/03/2020 06:00",
+		"time_end": "13/03/2020 18:00",
+		"address": "Trung tâm TDTT Long Biên, Hà Nội",
+		"noOfParticipants": 200,
+		"level_in_challenge": [
+			{
+				"id": 1, "name": "5km", "rate": 1
+			},{
+				"id": 2, "name": "10km", "rate": 2
+			},{
+				"id": 3, "name": "15km", "rate": 3
+			},{
+				"id": 4, "name": "20km", "rate": 4
+			},{
+				"id": 5, "name": "50km", "rate": 5
+			}
+		],
+		"prize": "",
+		"detail": "",
+		"status": 1
+	},{
+		"id": 2,
+		"image": "https://picsum.photos/415/157",
+		"event_name": "Opening Event 2",
+		"time_register_start": "13/03/2020 08:00",
+		"time_register_end": "23/03/2020 17:00",
+		"time_start": "13/03/2020 06:00",
+		"time_end": "13/03/2020 18:00",
+		"address": "Trung tâm TDTT Long Biên, Hà Nội",
+		"noOfParticipants": 200,
+		"level_in_challenge": [
+			{
+				"id": 1, "name": "5km", "rate": 1
+			},{
+				"id": 2, "name": "10km", "rate": 2
+			},{
+				"id": 3, "name": "15km", "rate": 3
+			},{
+				"id": 4, "name": "20km", "rate": 4
+			}
+		],
+		"prize": "",
+		"detail": "",
+		"status": 1
+	},{
+		"id": 3,
+		"image": "https://picsum.photos/415/157",
+		"event_name": "Opening Event 3",
+		"time_register_start": "13/03/2020 08:00",
+		"time_register_end": "23/03/2020 17:00",
+		"time_start": "13/03/2020 06:00",
+		"time_end": "13/03/2020 18:00",
+		"address": "Trung tâm TDTT Long Biên, Hà Nội",
+		"noOfParticipants": 200,
+		"level_in_challenge": [
+			{
+				"id": 1, "name": "5km", "rate": 1
+			},{
+				"id": 2, "name": "10km", "rate": 2
+			},{
+				"id": 3, "name": "15km", "rate": 3
+			},{
+				"id": 4, "name": "20km", "rate": 4
+			}
+		],
+		"prize": "",
+		"detail": "",
+		"status": 1
+	},{
+		"id": 4,
+		"image": "https://picsum.photos/415/157",
+		"event_name": "Opening Event 4",
+		"time_register_start": "13/03/2020 08:00",
+		"time_register_end": "23/03/2020 17:00",
+		"time_start": "13/03/2020 06:00",
+		"time_end": "13/03/2020 18:00",
+		"address": "Trung tâm TDTT Long Biên, Hà Nội",
+		"noOfParticipants": 200,
+		"level_in_challenge": [
+			{
+				"id": 1, "name": "5km", "rate": 1
+			},{
+				"id": 2, "name": "10km", "rate": 2
+			},{
+				"id": 3, "name": "15km", "rate": 3
+			},{
+				"id": 4, "name": "20km", "rate": 4
+			}
+		],
+		"prize": "",
+		"detail": "",
+		"status": 1
+	},{
+		"id": 5,
+		"image": "https://picsum.photos/415/157",
+		"event_name": "Opening Event 5",
+		"time_register_start": "13/03/2020 08:00",
+		"time_register_end": "23/03/2020 17:00",
+		"time_start": "13/03/2020 06:00",
+		"time_end": "13/03/2020 18:00",
+		"address": "Trung tâm TDTT Long Biên, Hà Nội",
+		"noOfParticipants": 200,
+		"level_in_challenge": [
+			{
+				"id": 1, "name": "5km", "rate": 1
+			},{
+				"id": 2, "name": "10km", "rate": 2
+			},{
+				"id": 3, "name": "15km", "rate": 3
+			},{
+				"id": 4, "name": "20km", "rate": 4
+			}
+		],
+		"prize": "",
+		"detail": "",
+		"status": 1
+	}]
+}
