@@ -2,7 +2,7 @@
 	"challenges": [{
 		"id": 1,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Upcoming Event 1",
+		"event_name": "Sự kiện sắp tới 1",
 		"time_register_start": "10/04/2020 08:00",
 		"time_register_end": "16/04/2020 17:00",
 		"time_start": "10/05/2020 06:00",
@@ -26,7 +26,7 @@
 	},{
 		"id": 2,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Upcoming Event 2",
+		"event_name": "Sự kiện sắp tới 2",
 		"time_register_start": "10/04/2020 08:00",
 		"time_register_end": "16/04/2020 17:00",
 		"time_start": "10/05/2020 06:00",
@@ -50,7 +50,7 @@
 	},{
 		"id": 3,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Upcoming Event 3",
+		"event_name": "Sự kiện sắp tới 3",
 		"time_register_start": "10/04/2020 08:00",
 		"time_register_end": "16/04/2020 17:00",
 		"time_start": "10/05/2020 06:00",
@@ -74,7 +74,7 @@
 	},{
 		"id": 4,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Upcoming Event 4",
+		"event_name": "Sự kiện sắp tới 4",
 		"time_register_start": "10/04/2020 08:00",
 		"time_register_end": "16/04/2020 17:00",
 		"time_start": "10/05/2020 06:00",
@@ -98,7 +98,7 @@
 	},{
 		"id": 5,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Upcoming Event 5",
+		"event_name": "Sự kiện sắp tới 5",
 		"time_register_start": "10/04/2020 08:00",
 		"time_register_end": "16/04/2020 17:00",
 		"time_start": "10/05/2020 06:00",

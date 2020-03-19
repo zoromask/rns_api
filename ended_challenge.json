@@ -2,7 +2,7 @@
 	"challenges": [{
 		"id": 1,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Ended Event 1",
+		"event_name": "Sự kiện đã kết thúc 1",
 		"time_register_start": "11/02/2020 08:00",
 		"time_register_end": "16/02/2020 17:00",
 		"time_start": "17/02/2020 06:00",
@@ -28,7 +28,7 @@
 	},{
 		"id": 2,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Ended Event 2",
+		"event_name": "Sự kiện đã kết thúc 2",
 		"time_register_start": "11/02/2020 08:00",
 		"time_register_end": "23/03/2020 17:00",
 		"time_start": "17/02/2020 06:00",
@@ -52,7 +52,7 @@
 	},{
 		"id": 3,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Ended Event 3",
+		"event_name": "Sự kiện đã kết thúc 3",
 		"time_register_start": "11/02/2020 08:00",
 		"time_register_end": "23/03/2020 17:00",
 		"time_start": "17/02/2020 06:00",
@@ -76,7 +76,7 @@
 	},{
 		"id": 4,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Ended Event 4",
+		"event_name": "Sự kiện đã kết thúc 4",
 		"time_register_start": "11/02/2020 08:00",
 		"time_register_end": "23/03/2020 17:00",
 		"time_start": "17/02/2020 06:00",
@@ -100,7 +100,7 @@
 	},{
 		"id": 5,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Ended Event 5",
+		"event_name": "Sự kiện đã kết thúc 5",
 		"time_register_start": "11/02/2020 08:00",
 		"time_register_end": "23/03/2020 17:00",
 		"time_start": "17/02/2020 06:00",
