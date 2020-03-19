@@ -1,0 +1,111 @@
+{
+	"users": [{
+		"id": 1,
+		"profile": {
+			"username": "zoromask",
+			"avatar": "https://picsum.photos/80/80",
+			"loyalty": "200",
+			"password": "abc123",
+			"email": "ducanh28487@gmail.com",
+			"fullname": "Nguyen Duc Anh",
+			"phone": "0942109398",
+			"city": "Hanoi",
+			"birthday": "28/04/1987",
+			"height": "165cm",
+			"strava_account": "https://strava.com/username/ducanh28487"
+		},
+		"groups": [1,2],
+		"friends": [4,2,3],
+		"challenges": [7,13]
+	},{
+		"id": 2,
+		"profile": {
+			"username": "sample",
+			"avatar": "https://picsum.photos/80/80",
+			"loyalty": "100",
+			"password": "abc123",
+			"email": "sample@gmail.com",
+			"fullname": "Sample",
+			"phone": "0941029323",
+			"city": "Hanoi",
+			"birthday": "20/11/1989",
+			"height": "170cm",
+			"strava_account": "https://strava.com/username/sample_account"
+		},
+		"groups": [1,2],
+		"friends": [1,6,3],
+		"challenges": [7,13]
+	},{
+		"id": 3,
+		"profile": {
+			"username": "sample",
+			"avatar": "https://picsum.photos/80/80",
+			"loyalty": "100",
+			"password": "abc123",
+			"email": "sample@gmail.com",
+			"fullname": "Sample",
+			"phone": "0941029323",
+			"city": "Hanoi",
+			"birthday": "20/11/1989",
+			"height": "170cm",
+			"strava_account": "https://strava.com/username/sample_account"
+		},
+		"groups": [1,2],
+		"friends": [1,2,5],
+		"challenges": [7,13]
+	},{
+		"id": 4,
+		"profile": {
+			"username": "sample",
+			"avatar": "https://picsum.photos/80/80",
+			"loyalty": "100",
+			"password": "abc123",
+			"email": "sample@gmail.com",
+			"fullname": "Sample",
+			"phone": "0941029323",
+			"city": "Hanoi",
+			"birthday": "20/11/1989",
+			"height": "170cm",
+			"strava_account": "https://strava.com/username/sample_account"
+		},
+		"groups": [2],
+		"friends": [1,5,6],
+		"challenges": [7,13]
+	},{
+		"id": 5,
+		"profile": {
+			"username": "sample",
+			"avatar": "https://picsum.photos/80/80",
+			"loyalty": "100",
+			"password": "abc123",
+			"email": "sample@gmail.com",
+			"fullname": "Sample",
+			"phone": "0941029323",
+			"city": "Hanoi",
+			"birthday": "20/11/1989",
+			"height": "170cm",
+			"strava_account": "https://strava.com/username/sample_account"
+		},
+		"groups": [2],
+		"friends": [4,6,3],
+		"challenges": [7,13]
+	},{
+		"id": 6,
+		"profile": {
+			"username": "sample",
+			"avatar": "https://picsum.photos/80/80",
+			"loyalty": "100",
+			"password": "abc123",
+			"email": "sample@gmail.com",
+			"fullname": "Sample",
+			"phone": "0941029323",
+			"city": "Hanoi",
+			"birthday": "20/11/1989",
+			"height": "170cm",
+			"strava_account": "https://strava.com/username/sample_account"
+		},
+		"groups": [1],
+		"friends": [4,2,5],
+		"challenges": [7,13]
+	}]
+}

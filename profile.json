@@ -1,0 +1,19 @@
+{
+	"id": 1,
+	"profile": {
+		"username": "zoromask",
+		"avatar": "https://picsum.photos/80/80",
+		"loyalty": "200",
+		"password": "abc123",
+		"email": "ducanh28487@gmail.com",
+		"fullname": "Nguyen Duc Anh",
+		"phone": "0942109398",
+		"city": "Hanoi",
+		"birthday": "28/04/1987",
+		"height": "165cm",
+		"strava_account": "https://strava.com/username/ducanh28487"
+	},
+	"groups": [1,2],
+	"friends": [4,2,3],
+	"challenges": [7,13]
+}
