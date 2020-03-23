@@ -1,0 +1,48 @@
+{
+	"group": [{
+		"id": 1,
+		"name": "Team 1",
+		"image": "https://picsum.photos/80/80",
+		"point": 500
+	},{
+		"id": 2,
+		"name": "Team 2",
+		"image": "https://picsum.photos/80/80",
+		"point": 480
+	},{
+		"id": 3,
+		"name": "Team 3",
+		"image": "https://picsum.photos/80/80",
+		"point": 470
+	},{
+		"id": 4,
+		"name": "Team 4",
+		"image": "https://picsum.photos/80/80",
+		"point": 480
+	},{
+		"id": 5,
+		"name": "Team 5",
+		"image": "https://picsum.photos/80/80",
+		"point": 400
+	},{
+		"id": 6,
+		"name": "Team 6",
+		"image": "https://picsum.photos/80/80",
+		"point": 380
+	},{
+		"id": 7,
+		"name": "Team 7",
+		"image": "https://picsum.photos/80/80",
+		"point": 370
+	},{
+		"id": 8,
+		"name": "Team 8",
+		"image": "https://picsum.photos/80/80",
+		"point": 370
+	},{
+		"id": 9,
+		"name": "Team 9",
+		"image": "https://picsum.photos/80/80",
+		"point": 300
+	}]
+}
