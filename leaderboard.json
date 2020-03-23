@@ -44,5 +44,60 @@
 		"name": "Team 9",
 		"image": "https://picsum.photos/80/80",
 		"point": 300
+	}],
+	"personal": [{
+		"id": 1,
+		"name": "Athele 1",
+		"image": "https://picsum.photos/80/80",
+		"location": "Hanoi",
+		"point": 500
+	},{
+		"id": 2,
+		"name": "Athele 2",
+		"image": "https://picsum.photos/80/80",
+		"location": "HCM",
+		"point": 480
+	},{
+		"id": 3,
+		"name": "Athele 3",
+		"image": "https://picsum.photos/80/80",
+		"location": "Hanoi",
+		"point": 470
+	},{
+		"id": 4,
+		"name": "Athele 4",
+		"image": "https://picsum.photos/80/80",
+		"location": "Hanoi",
+		"point": 480
+	},{
+		"id": 5,
+		"name": "Athele 5",
+		"image": "https://picsum.photos/80/80",
+		"location": "HCM",
+		"point": 400
+	},{
+		"id": 6,
+		"name": "Athele 6",
+		"image": "https://picsum.photos/80/80",
+		"location": "Hanoi",
+		"point": 380
+	},{
+		"id": 7,
+		"name": "Athele 7",
+		"image": "https://picsum.photos/80/80",
+		"location": "HCM",
+		"point": 370
+	},{
+		"id": 8,
+		"name": "Athele 8",
+		"image": "https://picsum.photos/80/80",
+		"location": "HCM",
+		"point": 370
+	},{
+		"id": 9,
+		"name": "Athele 9",
+		"image": "https://picsum.photos/80/80",
+		"location": "Hanoi",
+		"point": 300
 	}]
 }
