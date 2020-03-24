@@ -1,0 +1,9 @@
+{
+	"data": {
+		"name": "Athlete 1",
+		"banner": "https://picsum.photos/380/170",
+		"avatar": "https://picsum.photos/52/52",
+		"totalKM": "10000",
+		"class": "42 km"
+	}
+}
