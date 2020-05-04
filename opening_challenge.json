@@ -2,11 +2,11 @@
 	"challenges": [{
 		"id": 6,
 		"image": "https://picsum.photos/415/157",
-		"event_name": "Sự kiện đang diễn ra 1",
+		"event_name": "Sự kiện đang diễn ra 1...",
 		"time_register_start": "28/04/2020 08:00",
 		"time_register_end": "21/05/2020 17:00",
-		"time_start": "13/05/2020 06:00",
-		"time_end": "13/05/2020 18:00",
+		"time_start": "28/05/2020 06:00",
+		"time_end": "28/05/2020 18:00",
 		"address": "Trung tâm TDTT Long Biên, Hà Nội",
 		"noOfParticipants": 200,
 		"level_in_challenge": [
